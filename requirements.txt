@@ -1,2 +1,6 @@
 matplotlib==3.5.0
 numpy==1.19.5
+pandas
+matplotlib.pyplot
+matplotlib.dates
+math
